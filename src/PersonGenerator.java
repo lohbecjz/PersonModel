@@ -5,7 +5,6 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Scanner;
-
 import static java.nio.file.StandardOpenOption.CREATE;
 
 /**

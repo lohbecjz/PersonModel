@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9178679d-0b17-4677-91b2-54601422388d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PersonTestData.txt" afterDir="false" />
+    <list default="true" id="9178679d-0b17-4677-91b2-54601422388d" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/src/PersonReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PersonGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PersonGenerator.java" afterDir="false" />
     </list>
@@ -10,6 +13,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/jamie/Documents/UC/Spring 2023/Computer Programming 2/Module 1/Person Model/src"
+    "last_opened_file_path": "C:/Users/jamie/Documents/UC/Spring 2023/Computer Programming 2/Module 1/CP 1/Lab 12/Lab_12_File_Away"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,9 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1673808202358</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1673808918025</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673808918025</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
